@@ -5,8 +5,11 @@ I Develop four ui screen using flutter
 ## Screenshots
 
 <div style="display:flex">
-    <img src="screenshots/Screenshot_01.jpg" alt="Home Screen" width="300" height="600" style="margin-right: 10px;">
-    <img src="screenshots/Screenshot_02.jpg" alt="Home Screen" width="300" height="600">
+    <img src="screenshots/Screenshot_01.jpg" alt="Home Screen" width="200" height="400" style="margin-right: 30px;">
+    <img src="screenshots/Screenshot_02.jpg" alt="Home Screen" width="200" height="400" style="margin-right: 30px">
+    <img src="screenshots/Screenshot_03.jpg" alt="Home Screen" width="200" height="400" style="margin-right: 30px">
+    <img src="screenshots/Screenshot_04.jpg" alt="Home Screen" width="200" height="400" style="margin-right: 30px">
+    <img src="screenshots/Screenshot_05.jpg" alt="Home Screen" width="200" height="400" style="margin-right: 30px">
 </div>
 
 *App Home Screen*
